@@ -1,4 +1,4 @@
-TicTail PHP Client
+Tictail PHP Client
 ========
 
-TicTail.com API client implementation in PHP
+Tictail.com API client implementation in PHP
